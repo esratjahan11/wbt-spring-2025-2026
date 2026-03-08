@@ -1,0 +1,56 @@
+/* Reset default browser spacing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 40px;
+}
+
+/* Each education section */
+div {
+    background: white;
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading */
+h2 {
+    color: #333;
+    margin-bottom: 15px;
+}
+
+/* Images (logos) */
+img {
+    width: 120px;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 16px;
+    margin: 5px 0;
+    color: #444;
+}
+
+/* Bold text */
+strong {
+    color: #000;
+}
+
+/* Horizontal line */
+hr {
+    margin-top: 20px;
+    border: 0;
+    height: 1px;
+    background: #ddd;
+}

@@ -1,0 +1,86 @@
+/* Reset default spacing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 40px;
+    line-height: 1.6;
+}
+
+/* Experience sections */
+div {
+    background: white;
+    max-width: 750px;
+    margin: 30px auto;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Headings */
+h2 {
+    color: #333;
+    margin-bottom: 15px;
+}
+
+/* Images */
+img {
+    display: block;
+    margin: 10px 0 15px 0;
+    border-radius: 6px;
+}
+
+/* Paragraph styling */
+p {
+    margin: 6px 0;
+    font-size: 16px;
+}
+
+/* Bold labels */
+strong {
+    color: #000;
+}
+
+/* List styling */
+ul {
+    margin: 10px 0 10px 20px;
+}
+
+ul li {
+    margin-bottom: 6px;
+}
+
+/* Horizontal line */
+hr {
+    margin: 30px auto;
+    width: 70%;
+    border: 0;
+    height: 1px;
+    background: #ccc;
+}
+
+/* Footer */
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 8px;
+}
+
+/* Footer text */
+footer p {
+    margin: 8px 0;
+}
+
+/* Email styling */
+footer em {
+    color: #f4a261;
+}
