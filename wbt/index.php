@@ -19,7 +19,6 @@ echo "Area: $area <br>";
 echo "Perimeter: $perimeter <br>";
 ?>
 
-
 <?php
 $amount = 1000; 
 
